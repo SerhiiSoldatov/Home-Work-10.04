@@ -2,8 +2,8 @@
 
 int a, b, c;
 a = 10;
-b = 10;
-c = 10;
+b = 15;
+c = 5;
 if (a > b && a > c)
 {
     System.Console.WriteLine($"Число {a} максимальное.");
